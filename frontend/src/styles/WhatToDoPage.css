@@ -66,7 +66,7 @@ body {
 
 .nav-header h2 {
   font-size: 1.5rem;
-  color: #9c27b0;
+  color: #289f38;
   margin-bottom: 10px;
 }
 
@@ -84,7 +84,7 @@ body {
   left: 0;
   height: 100%;
   width: 30%;
-  background-color: #9c27b0;
+  background-color: #289f38;
   border-radius: 3px;
   transition: width 0.5s ease;
 }
@@ -128,7 +128,7 @@ body {
   left: 0;
   width: 4px;
   height: 100%;
-  background-color: #9c27b0;
+  background-color: #289f38;
   transform: scaleY(0);
   transition: transform 0.3s ease;
 }
@@ -139,7 +139,7 @@ body {
 
 .nav-item.active {
   background-color: rgba(156, 39, 176, 0.15);
-  color: #9c27b0;
+  color: #289f38;
 }
 
 .nav-item.active::before {
@@ -159,7 +159,7 @@ body {
 }
 
 .nav-item.active .nav-icon {
-  background-color: #9c27b0;
+  background-color: #289f38;
 }
 
 .nav-text {
@@ -188,7 +188,7 @@ body {
 
 .progress-fill {
   height: 100%;
-  background-color: #9c27b0;
+  background-color: #289f38;
   border-radius: 4px;
   transition: width 0.5s ease;
 }
@@ -248,7 +248,7 @@ body {
   left: 0;
   width: 100%;
   height: 3px;
-  background: linear-gradient(90deg, #9c27b0, transparent);
+  background: linear-gradient(90deg, #289f38, transparent);
   transform: scaleX(0);
   transform-origin: left;
   transition: transform 0.5s ease;
@@ -267,7 +267,7 @@ body {
 .section-number {
   width: 40px;
   height: 40px;
-  background-color: #9c27b0;
+  background-color: #289f38;
   color: white;
   border-radius: 50%;
   display: flex;
@@ -280,7 +280,7 @@ body {
 
 .section-header h2 {
   font-size: 1.8rem;
-  color: #9c27b0;
+  color: #289f38  ;
 }
 
 .section-content {
@@ -333,7 +333,7 @@ body {
 .brain-icon {
   width: 80px;
   height: 80px;
-  background-color: rgba(156, 39, 176, 0.2);
+  background-color: rgba(137, 238, 184, 0.2);
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -352,7 +352,7 @@ body {
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  background-color: rgba(156, 39, 176, 0.3);
+  background-color: rgba(129, 246, 134, 0.3);
   z-index: 1;
   animation: pulse 2s infinite;
 }
@@ -426,7 +426,7 @@ body {
 
 .completion-progress {
   height: 100%;
-  background-color: #9c27b0;
+  background-color: #289f38;
   border-radius: 4px;
   transition: width 0.5s ease;
 }

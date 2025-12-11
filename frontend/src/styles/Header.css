@@ -21,7 +21,7 @@
     font-size: 1.8em; 
     font-weight: bold;
     letter-spacing: 1px;
-    color: #e9c7ee;
+    color: #acf4b6;
 }
 
 /* --- Navigation List Styles --- */
@@ -46,7 +46,7 @@
 /* --- Hover/Active Styles for Links --- */
 .main-nav a:hover,
 .main-nav a:focus {
-    color: #e197ef; 
+    color: #289f38; 
     text-decoration: none;
 }
 

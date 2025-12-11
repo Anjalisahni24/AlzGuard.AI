@@ -38,7 +38,7 @@ body {
 .page-header h1 {
   font-size: 2.8rem;
   margin-bottom: 15px;
-  color: #9c27b0;
+  color: #289f38;
 }
 
 .page-header p {
@@ -74,7 +74,7 @@ body {
 .section-header h2 {
   font-size: 2.2rem;
   margin-bottom: 10px;
-  color: #9c27b0;
+  color: #289f38;
 }
 
 .section-header p {
@@ -129,7 +129,7 @@ body {
 }
 
 .card-back {
-  background: linear-gradient(135deg, #9c27b0, #7b1fa2);
+  background: linear-gradient(135deg, #289f38, #289f38);
   color: white;
   transform: rotateY(180deg);
   display: flex;
@@ -146,7 +146,7 @@ body {
   overflow: hidden;
   margin-bottom: 20px;
   position: relative;
-  border: 4px solid #9c27b0;
+  border: 4px solid #289f38;
 }
 
 .profile-image img {
@@ -229,7 +229,7 @@ body {
 .mission-text h3 {
   font-size: 1.8rem;
   margin-bottom: 15px;
-  color: #9c27b0;
+  color: #289f38;
 }
 
 .mission-text p {
@@ -265,7 +265,7 @@ body {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  border: 3px solid #9c27b0;
+  border: 3px solid #289f38;
   opacity: 0;
   animation: pulse 2s infinite;
 }
@@ -315,7 +315,7 @@ body {
 .value-card h3 {
   font-size: 1.5rem;
   margin-bottom: 10px;
-  color: #9c27b0;
+  color: #289f38;
 }
 
 .value-card p {
@@ -362,7 +362,7 @@ body {
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  background-color: #9c27b0;
+  background-color: #289f38;
   border: 3px solid #121212;
   z-index: 1;
 }
@@ -373,7 +373,7 @@ body {
   left: -100px;
   width: 80px;
   height: 30px;
-  background-color: #9c27b0;
+  background-color: #289f38;
   color: white;
   display: flex;
   align-items: center;
@@ -392,7 +392,7 @@ body {
 .timeline-content h3 {
   font-size: 1.5rem;
   margin-bottom: 10px;
-  color: #9c27b0;
+  color: #289f38;
 }
 
 /* Partners Section */
@@ -411,7 +411,7 @@ body {
 .partner-category h3 {
   font-size: 1.5rem;
   margin-bottom: 20px;
-  color: #9c27b0;
+  color: #289f38;
   text-align: center;
 }
 
@@ -474,7 +474,7 @@ body {
 .stat-number {
   font-size: 2.5rem;
   font-weight: bold;
-  color: #9c27b0;
+  color: #289f38;
   margin-bottom: 10px;
 }
 
@@ -496,7 +496,7 @@ body {
 .cta-section h2 {
   font-size: 2.2rem;
   margin-bottom: 20px;
-  color: #9c27b0;
+  color: #289f38;
 }
 
 .cta-section p {
@@ -531,19 +531,19 @@ body {
 }
 
 .btn-primary:hover {
-  background-color: #7b1fa2;
+  background-color: #289f38;
   transform: translateY(-3px);
   box-shadow: 0 10px 20px rgba(156, 39, 176, 0.3);
 }
 
 .btn-secondary {
   background-color: transparent;
-  color: #9c27b0;
-  border: 2px solid #9c27b0;
+  color: #289f38;
+  border: 2px solid #289f38;
 }
 
 .btn-secondary:hover {
-  background-color: #9c27b0;
+  background-color: #289f38`;
   color: white;
   transform: translateY(-3px);
 }
@@ -571,7 +571,7 @@ body {
 .footer-section h3 {
   font-size: 1.3rem;
   margin-bottom: 20px;
-  color: #9c27b0;
+  color: #289f38;
 }
 
 .footer-section p {
@@ -594,7 +594,7 @@ body {
 }
 
 .footer-section ul li a:hover {
-  color: #9c27b0;
+  color: #289f38;
 }
 
 .social-icons {
@@ -616,7 +616,7 @@ body {
 }
 
 .social-icon:hover {
-  background-color: #9c27b0;
+  background-color: #289f38;
   transform: translateY(-5px);
 }
 
@@ -648,7 +648,7 @@ body {
 }
 
 .footer-links a:hover {
-  color: #9c27b0;
+  color: #289f38;
 }
 
 /* Responsive Design */

@@ -97,8 +97,8 @@ body {
 }
 
 .social-btn.active {
-  background-color: #9c27b0;
-  border-color: #9c27b0;
+  background-color: #289f38;
+  border-color: #289f38;
 }
 
 .social-btn .icon {
@@ -111,7 +111,7 @@ body {
 }
 
 .social-btn.facebook .icon {
-  color: #1877f2;
+  color: #9fbee6;
 }
 
 /* Divider */
@@ -176,7 +176,7 @@ body {
 
 .form-group input:focus {
   outline: none;
-  border-color: #9c27b0;
+  border-color: #289f38;
   box-shadow: 0 0 0 3px rgba(156, 39, 176, 0.1);
 }
 
@@ -222,7 +222,7 @@ body {
 .gender-option input[type="radio"] {
   width: 18px;
   height: 18px;
-  accent-color: #9c27b0;
+  accent-color: #289f38;
 }
 
 .gender-option label {
@@ -233,7 +233,7 @@ body {
 }
 
 .gender-option input[type="radio"]:checked + label {
-  color: #9c27b0;
+  color: #289f38;
   font-weight: 500;
 }
 
@@ -255,7 +255,7 @@ body {
 }
 
 .checkbox-group label a {
-  color: #9c27b0;
+  color: #289f38;
   text-decoration: none;
 }
 
@@ -271,7 +271,7 @@ body {
 }
 
 .forgot-password a {
-  color: #9c27b0;
+  color: #289f38;
   text-decoration: none;
   font-size: 0.9rem;
 }
@@ -285,7 +285,7 @@ body {
   padding: 14px;
   border-radius: 8px;
   border: none;
-  background-color: #9c27b0;
+  background-color: #289f38;
   color: #ffffff;
   font-size: 1rem;
   font-weight: bold;
@@ -296,9 +296,9 @@ body {
 }
 
 .auth-submit:hover {
-  background-color: #7b1fa2;
+  background-color: #289f38;
   transform: translateY(-2px);
-  box-shadow: 0 5px 15px rgba(156, 39, 176, 0.3);
+  box-shadow: 0 5px 15px rgba(112, 239, 131, 0.3);
 }
 
 .auth-submit:disabled {
@@ -337,7 +337,7 @@ body {
 .form-toggle button {
   background: none;
   border: none;
-  color: #9c27b0;
+  color: #289f38;
   font-weight: bold;
   cursor: pointer;
   margin-left: 5px;
@@ -370,7 +370,7 @@ body {
 }
 
 .footer-links a:hover {
-  color: #9c27b0;
+  color: #289f38;
 }
 
 /* Responsive Design */
